@@ -2,6 +2,8 @@
 
 A simple project to learn about the Binance Spot API and WebSocket market stream.
 
+https://binance-docs.github.io/apidocs/spot/en/#websocket-market-streams
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
